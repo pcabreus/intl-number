@@ -11,7 +11,7 @@
     ],
     "homepage": "https://github.com/pcabreus/intl-number",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Pedro Carlos Abreu Jiménez",
@@ -26,7 +26,7 @@
     "require": {
     },
     "autoload": {
-        "psr-4": {"Pcabreus\\Utils\\Entity\\": ""}
+        "psr-4": {"Pcabreus\\Utils\\IntlNumber\\": ""}
     },
     "extra": {
         "branch-alias": {

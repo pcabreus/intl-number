@@ -19,7 +19,7 @@ use Pcabreus\Utils\IntlNumber\Locale\EsNumberConverter;
  *
  * @author Pedro Carlos Abreu <pcabreus@gmail.com>
  */
-class IntlNumber
+class IntlNumber implements IntlNumberInterface
 {
     /**
      * @param $number
